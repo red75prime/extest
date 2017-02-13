@@ -1,0 +1,7 @@
+[package]
+name = "extest"
+version = "0.1.0"
+authors = ["red75prime <red75prim@gmail.com>"]
+
+[dependencies]
+error-chain = {version="0.9", default-features = false}
